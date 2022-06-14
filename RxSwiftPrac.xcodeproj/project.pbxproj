@@ -19,6 +19,7 @@
 /* Begin PBXFileReference section */
 		1421578E285815230066D160 /* Subjects.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subjects.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		1421578F28586BC50066D160 /* FilteringOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FilteringOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1421579028587B8E0066D160 /* TransformingOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TransformingOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		143ACE8128532945002D0044 /* RxSwiftPrac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RxSwiftPrac.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		143ACE8428532945002D0044 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		143ACE8628532945002D0044 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +50,7 @@
 		143ACE7828532945002D0044 = {
 			isa = PBXGroup;
 			children = (
+				1421579028587B8E0066D160 /* TransformingOperators.playground */,
 				1421578F28586BC50066D160 /* FilteringOperators.playground */,
 				1421578E285815230066D160 /* Subjects.playground */,
 				143ACE9A28534103002D0044 /* Traits.playground */,
